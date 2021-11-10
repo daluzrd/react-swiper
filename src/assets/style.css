@@ -1,0 +1,22 @@
+.App {
+	width: fit-content;
+	height: calc(100vh - 6rem);
+	padding: 3rem;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	gap: 3rem;
+
+	font-size: 3rem;
+}
+
+.tag {
+	width: 100%;
+	background-color: #aaffaa;
+	border: solid 2px #88ff88;
+	border-radius: 10px;
+
+	text-align: center;
+}
